@@ -1,0 +1,5 @@
+/**:
+  ros__parameters:
+    LM_ids: ["marker6", "marker8"]
+    LM_xs: [0.0,  0.0]
+    LM_ys: [0.0, 4.5]

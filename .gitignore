@@ -1,0 +1,9 @@
+build/
+install/
+log/
+.vscode
+bags/*
+!bags/.gitkeep
+third_party/*
+!third_party/.gitkeep
+!third_party/src/.gitkeep
